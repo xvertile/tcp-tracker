@@ -13,7 +13,7 @@
 To install the package, use the following command:
 
 ```bash
-go get -u xvertile/tcp-tracker
+go get -u github.com/xvertile/tcp-tracker
 ```
 
 ## Usage
